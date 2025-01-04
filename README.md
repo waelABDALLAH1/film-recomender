@@ -30,13 +30,13 @@ Ce projet est un script Python qui permet de générer des recommandations de fi
    ```bash
    git clone https://github.com/votre-utilisateur/film_recommender.git
    cd film_recommender
-2.**Créez un environnement virtuel :
+2. **Créez un environnement virtuel :
 python -m venv myenv
-3.Activez l’environnement virtuel :
+3. Activez l’environnement virtuel :
 source myenv/bin/activate
-4.Installez les dépendances dans l’environnement virtuel :
+4. Installez les dépendances dans l’environnement virtuel :
 pip install -r requirements.txt
-5.Ajoutez votre clé API TMDb dans le fichier modules/api.py :
+5. Ajoutez votre clé API TMDb dans le fichier modules/api.py :
 API_KEY = "votre_clé_API"
 Utilisation
 Pour lancer le générateur de recommandations, exécutez le fichier main.py :
