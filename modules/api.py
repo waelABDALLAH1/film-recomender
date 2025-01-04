@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "515bd4b0ba9dbfb9737341d5b8247e1d"
+API_KEY = "your-API-KEY"
 
 # Mappage des genres et des plateformes
 genres = {"action": 28, "comédie": 35, "drame": 18, "aventure": 12}
